@@ -25,7 +25,12 @@
     </div>
   </q-page>
 </template>
-
+<style scoped>
+.q-page{
+  max-width: 700px;
+  margin: 0;
+}
+</style>
 <script setup>
 
 </script>
