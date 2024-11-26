@@ -1,5 +1,12 @@
 <template>
   <q-page class="flex flex-center text-whith">
+    <div class="row">
+      <q-input 
+      input-class="text-center text-h5 text-white"
+      color="teal"
+      filled 
+      placeholder="Counter" />
+    </div>
     <div class="row full-width items-center">
       <div class="col text-center">
         <q-btn round icon="remove" size="xl" />
